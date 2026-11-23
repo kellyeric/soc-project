@@ -1,0 +1,17 @@
+TWA SOC ACADEMY · HOSTING GUIDE
+================================
+
+LOCAL PC
+1. Extract this ZIP to a folder on your computer.
+2. Open the twa-soc-academy folder.
+3. Double-click start-academy.bat on Windows, or run sh start-academy.sh on Mac/Linux.
+4. Open http://localhost:8080 in your browser. You can also open index.html directly.
+
+GITHUB PAGES
+1. Create or open a GitHub repository for your site.
+2. Upload the CONTENTS of the github-pages folder to the repository root.
+3. In the repository, open Settings > Pages.
+4. Under Build and deployment, choose Deploy from a branch, select your branch and / (root), then Save.
+5. Open the Pages URL GitHub provides after deployment finishes.
+
+The academy is a static site and needs no build step or package installation.
